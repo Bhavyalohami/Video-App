@@ -1,0 +1,8 @@
+<svg width="340" height="96" viewBox="0 0 340 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="88" height="88" rx="24" fill="#111318"/>
+  <rect x="4" y="4" width="88" height="88" rx="24" stroke="#D7FF38" stroke-width="8"/>
+  <path d="M33 29h-9V18h24v9H33v2Zm30-11h10v23h-9V27h-1v-9ZM24 55h9v14h15v9H24V55Zm40 14h-1v9h-24v-9h15V55h10v14Z" fill="#D7FF38"/>
+  <path d="M43 34.7c0-4.1 4.5-6.6 8-4.5l18.4 11.1c3.3 2 3.3 6.8 0 8.8L51 61.2c-3.5 2.1-8-.4-8-4.5v-22Z" fill="#F8FFFC"/>
+  <text x="112" y="42" fill="#F8FFFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900">Video Hub</text>
+  <text x="113" y="68" fill="#D7FF38" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="3">STREAM STUDIO</text>
+</svg>
