@@ -11,7 +11,7 @@ import Analytics from "./components/Analytics";
 import Pricing from "./components/Pricing";
 function App() {
   return (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <Header />
     <Routes>
       <Route path="/" element={<Home/>} />
